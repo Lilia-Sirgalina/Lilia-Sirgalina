@@ -44,5 +44,5 @@
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilia-Sirgalina&layout=compact&theme=vision-friendly-dark&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilia-Sirgalina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
