@@ -21,7 +21,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- ⚡ I'm a Frond End Developer from Spain.
+- ⚡ I'm a Front End Developer from Spain.
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning React, Redux and Node.
 - 📫 How to reach me: lilia_developer@hotmail.com
